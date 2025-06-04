@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bxbxr Ibrahim Alwarafi
-- 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning laravel and front-end
-- 💞️ I’m looking to collaborate on laravel projects
+- 👀 A programmer
+- 🌱 Laravel & react js
+- 💞️ Looking to collaborate
 - 📫 You can reach me using instagram: bx_bxr_ and whats up : "+967 776343741"
 
 <!---
